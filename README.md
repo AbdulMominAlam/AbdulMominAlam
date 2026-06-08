@@ -128,29 +128,6 @@ Machine learning project analyzing the relationship between economic indicators 
 
 ---
 
-## ❤️ Sadqah Gali
-
-Co-founded a non-profit initiative focused on community development and humanitarian projects.
-
-### Contributions
-- Infrastructure projects
-- Fundraising campaigns
-- Community outreach
-- Food distribution initiatives
-- Flood relief operations
-
----
-
-# 🌱 Currently Learning
-
-- Cloud Computing
-- Computer Vision
-- Advanced Machine Learning
-- Software Architecture
-- Full Stack Development
-
----
-
 # 📫 Connect With Me
 
 📍 Istanbul, Türkiye
