@@ -4,7 +4,7 @@
 
 📊 Minor in Business Analytics
 
-I'm interested in Software Engineering, Artificial Intelligence, Machine Learning, Algorithms, Data Analytics, and Mobile Development. I enjoy solving challenging problems, building practical applications, and applying theoretical concepts through real-world projects.
+I'm interested in Software Engineering, Artificial Intelligence, Machine Learning, Algorithms, Data Science, and Mobile Development. I enjoy solving challenging problems, building practical applications, and applying theoretical concepts through real-world projects.
 
 ---
 
