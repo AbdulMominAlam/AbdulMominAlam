@@ -4,146 +4,150 @@
 
 📊 Minor in Business Analytics
 
-I'm interested in Software Engineering, Artificial Intelligence, Machine Learning, Algorithms, Data Science, and Mobile Development. I enjoy solving challenging problems, building practical applications, and applying theoretical concepts through real-world projects.
+I am passionate about Software Engineering, Machine Learning, Algorithms, Data Science, and Mobile Application development. I enjoy building practical solutions, analyzing complex problems, and applying technology to real-world challenges.
 
 ---
 
 ## 🚀 Technical Skills
 
 ### Programming Languages
-- Python
 - C++
+- Python
 - JavaScript
+- Dart
 - SQL
-- Verilog HDL
 
-### Frameworks & Tools
+### Software Development
 - Flutter
-- Firebase
 - React
 - Node.js
+- Firebase
+- Firestore
+
+### Data Science & Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- Machine Learning
+- Data Analysis
+- Statistical Modeling
+
+### Databases
+- PostgreSQL
+- MySQL
+- Firestore
+
+### Tools & Technologies
 - Git & GitHub
 - Jupyter Notebook
 - Google Colab
-- MySQL
-- MongoDB
-- Gowin IDE
 - Overleaf (LaTeX)
-
-### Areas of Interest
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-- Algorithms & Data Structures
-- Mobile Development
-- FPGA & Digital Systems
-- Data Analytics
+- Microsoft Office
+- Blender
+- FPGA Development
+- Verilog HDL
 
 ---
 
 # 📂 Featured Projects
 
-## 🔹 SU Learning Companion
+## 📚 SU Learning Companion
 
-An all-in-one academic companion application designed for Sabancı University students.
+A mobile application built for university students to manage coursework, assignments, deadlines, study schedules, and academic productivity.
 
-### Features
-- Course management
-- Assignment tracking
-- Study session organization
-- Notes and flashcards
-- Student productivity tools
+**Technologies:** Flutter, Dart, Firebase, Firestore
 
-### Technologies
-Flutter • Firebase • Dart
-
----
-
-## 🔹 Supermarket Management System
-
-Database management system designed to support supermarket operations and inventory management.
-
-### Features
-- Product management
-- Inventory tracking
-- Customer and sales records
-- Database querying and reporting
-
-### Technologies
-MySQL • MongoDB • PHP
+### Highlights
+- Responsive mobile UI
+- Firebase authentication
+- Cloud database integration
+- Assignment and deadline tracking
+- Team-based software development
 
 ---
 
-## 🔹 FPGA UART Countdown Timer
+## 🛒 Supermarket Management System
 
-UART-controlled countdown timer implemented on the Tang Nano 9K FPGA platform.
+A database management system designed for supermarket operations.
 
-### Features
-- UART serial communication
-- Seven-segment display controller
-- Countdown timer implementation
-- Hardware verification and testing
+**Technologies:** SQL, MySQL, Database Design
 
-### Technologies
-Verilog • FPGA Development • Gowin IDE
+### Highlights
+- Normalized database design (1NF–3NF)
+- Complex SQL queries
+- Stored procedures
+- Database triggers
+- Inventory management
 
 ---
 
-## 🔹 Subset Sum Algorithm Analysis
+## ⏱ FPGA UART Countdown Timer
 
-Comprehensive analysis of the NP-Complete Subset Sum problem using Brute Force and Greedy Heuristic approaches.
+A UART-controlled countdown timer implemented on the Tang Nano 9K FPGA platform.
 
-### Features
-- Brute Force implementation
-- Greedy Heuristic implementation
-- Theoretical complexity analysis
-- Experimental performance evaluation
+**Technologies:** Verilog HDL, FPGA Design, Gowin IDE
+
+### Highlights
+- UART communication
+- Seven-segment display control
+- Hardware implementation
+- Functional verification
+
+---
+
+## 🧠 Subset Sum Algorithm Analysis
+
+An experimental analysis of the NP-Complete Subset Sum problem comparing Brute Force and Greedy Heuristic approaches.
+
+**Technologies:** Python, NumPy, Matplotlib, Jupyter Notebook
+
+### Highlights
+- Complexity analysis
+- Runtime evaluation
 - Confidence interval analysis
-- Solution quality testing
-- Functional testing using:
-  - Black-Box Testing
-  - White-Box Testing
-  - Boundary Value Analysis
-  - Equivalence Class Testing
-- Runtime visualization and fitted complexity models
-
-### Technologies
-Python • NumPy • Matplotlib • Jupyter Notebook • LaTeX
+- Functional testing
+- Quality testing
+- Performance visualization
+- Greedy vs Brute Force comparison
 
 ---
 
-## 🔹 R&D Investment Economic Analysis
+## 📈 Economic Impact on R&D Investment
 
-Data-driven analysis of research and development investment trends and economic indicators.
+Machine learning project analyzing the relationship between economic indicators and R&D spending across multiple countries.
 
-### Features
+**Technologies:** Python, Pandas, Scikit-learn
+
+### Highlights
 - Data preprocessing
-- Statistical analysis
-- Data visualization
-- Economic trend evaluation
-
-### Technologies
-Python • Pandas • Matplotlib • Jupyter Notebook
+- Exploratory Data Analysis
+- PCA
+- K-Means Clustering
+- Random Forest
+- Regression Analysis
 
 ---
 
-# 📚 Currently Learning
+## ❤️ Sadqah Gali
 
-- Machine Learning
+Co-founded a non-profit initiative focused on community development and humanitarian projects.
+
+### Contributions
+- Infrastructure projects
+- Fundraising campaigns
+- Community outreach
+- Food distribution initiatives
+- Flood relief operations
+
+---
+
+# 🌱 Currently Learning
+
 - Cloud Computing
 - Computer Vision
-- Advanced Algorithms
+- Advanced Machine Learning
 - Software Architecture
-
----
-
-# 📈 GitHub Goals
-
-- Build more real-world software projects
-- Strengthen full-stack development skills
-- Explore AI and machine learning applications
-- Contribute to open-source projects
-- Continuously improve problem-solving abilities
+- Full Stack Development
 
 ---
 
@@ -151,9 +155,11 @@ Python • Pandas • Matplotlib • Jupyter Notebook
 
 📍 Istanbul, Türkiye
 
-📧 momin.alam@sabanciuniv.edu
+📧 mominalam454@gmail.com
 
-💼 LinkedIn: *(Add your LinkedIn profile URL here)*
+🎓 Sabancı University (2023–2027)
+
+💻 GitHub: github.com/AbdulMominAlam
 
 ---
 
