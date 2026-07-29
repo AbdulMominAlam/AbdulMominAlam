@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Momin Alam</h1>
 
 <h3 align="center">
-Computer Science Student @ Sabancı University • AI & Full-Stack Developer
+Computer Science Student @ Sabancı University • AI, ML & Full-Stack Developer
 </h3>
 
 ---
@@ -10,7 +10,7 @@ Computer Science Student @ Sabancı University • AI & Full-Stack Developer
 
 📊 Minor in **Business Analytics**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Backend Engineering, Data Science and Software Development.
+🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
 
 🚀 Currently Exploring
 - GraphRAG
@@ -95,7 +95,7 @@ Computer Science Student @ Sabancı University • AI & Full-Stack Developer
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| 🤖 **AI Developer Support Agent** | Intelligent developer assistant combining Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), PostgreSQL, function calling, and a React frontend to answer technical questions using documentation and structured data. | Python • OpenAI • LangChain • ChromaDB • PostgreSQL • React |
+| 🤖 **AI Developer Support Agent** | Intelligent developer assistant that combines RAG, MCP, PostgreSQL, and a React frontend to answer technical questions using documentation and structured project data. | Python • OpenAI • LangChain • ChromaDB • PostgreSQL • React |
 | ⚽ **Football Match Outcome Prediction System** | End-to-end machine learning system that predicts football match outcomes using Random Forest, Elo Ratings, feature engineering, historical match statistics, and tournament simulation. | Python • Scikit-learn • Pandas |
 | 📱 **SU Learning Companion** | Cross-platform mobile application helping university students manage coursework, assignments, deadlines, and study schedules. | Flutter • Firebase |
 | 🛒 **Supermarket Management System** | Relational database management system featuring normalization, stored procedures, triggers, and inventory management. | MySQL |
