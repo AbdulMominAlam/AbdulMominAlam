@@ -37,6 +37,8 @@ Interested in AI, machine learning, and Full-Stack development, with a focus on 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge"/>
@@ -75,8 +77,6 @@ Interested in AI, machine learning, and Full-Stack development, with a focus on 
 <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
 
 </p>
 
@@ -93,7 +93,6 @@ Interested in AI, machine learning, and Full-Stack development, with a focus on 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gowin_IDE-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"/>
 
 </p>
 
