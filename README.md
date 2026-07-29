@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Momin Alam</h1>
 
 <h3 align="center">
-Computer Science Student @ Sabancı University • AI & Backend Developer
+Computer Science Student @ Sabancı University • AI & FullStack Developer
 </h3>
 
 <p align="center">
@@ -112,17 +112,6 @@ Building intelligent applications using LLMs, RAG, AI Agents, and modern softwar
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulMominAlam&show_icons=true&theme=github_dark" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMominAlam&layout=compact&theme=github_dark" height="170"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -136,7 +125,7 @@ Building intelligent applications using LLMs, RAG, AI Agents, and modern softwar
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/abdulmominalam/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
