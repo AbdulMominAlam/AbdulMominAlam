@@ -1,203 +1,78 @@
-# 👋 Hi, I'm Abdul Momin Alam
+# Hi, I'm Abdul Momin Alam 👋
 
-🎓 Computer Science Student at Sabancı University
-📊 Minor in Business Analytics
+Computer Science student at Sabancı University with a minor in Business Analytics.
 
-I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Software Engineering, and Backend Development**. I enjoy building intelligent applications using LLMs, Retrieval-Augmented Generation (RAG), AI Agents, and modern software engineering practices to solve real-world problems.
+I'm passionate about AI, backend engineering, and building intelligent software using LLMs, RAG, and modern web technologies.
 
----
-
-# 🚀 Technical Skills
-
-## Programming Languages
-
-* Python
-* C++
-* JavaScript
-* Dart
-* SQL
-* Verilog HDL
-
-## Artificial Intelligence & Machine Learning
-
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Model Context Protocol (MCP)
-* Agentic AI
-* Prompt Engineering
-* Function Calling
-* OCR
-* LangChain
-* ChromaDB
-* OpenAI API
-* Pandas
-* NumPy
-* Scikit-learn
-
-## Software Development
-
-* React
-* Node.js
-* Express.js
-* Flutter
-* Firebase
-* Firestore
-
-## Databases
-
-* PostgreSQL
-* MySQL
-* ChromaDB
-* Firestore
-
-## Tools & Technologies
-
-* Git & GitHub
-* Postman
-* Jupyter Notebook
-* Google Colab
-* VS Code
-* Overleaf (LaTeX)
-* Blender
-* FPGA Development
+Currently working on:
+- 🤖 AI Developer Support Agent
+- 🌐 GraphRAG
+- 🧠 Agentic AI Systems
 
 ---
 
-# 📂 Featured Projects
+## Tech Stack
 
-## 🤖 AI Developer Support Agent
+Languages:
+Python • C++ • JavaScript • SQL • Dart
 
-An intelligent AI assistant that combines Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), and tool calling to help developers retrieve documentation, query structured data, and answer technical questions through natural language conversations.
+AI/ML:
+LLMs • RAG • GraphRAG • LangChain • ChromaDB • MCP • OpenAI API • Scikit-learn
 
-**Technologies:** Python, OpenAI API, LangChain, ChromaDB, MCP, PostgreSQL, React
+Backend:
+Node.js • Express • PostgreSQL • MySQL
 
-### Highlights
+Frontend:
+React • Flutter
 
-* Built a complete Retrieval-Augmented Generation (RAG) pipeline
-* Indexed documentation using vector embeddings and ChromaDB
-* Integrated Model Context Protocol (MCP) tools for external actions
-* Implemented multi-turn conversations with function calling
-* Connected the assistant to a PostgreSQL database for structured queries
-* Developed an interactive React-based chat interface
-* Combined semantic search, tool calling, and database retrieval into a single AI workflow
-
----
-
-## ⚽ Football Match Outcome Prediction System
-
-An end-to-end machine learning system that predicts football match outcomes using historical match statistics, team strength, and predictive analytics. The system also simulates tournament brackets to estimate competition outcomes.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn
-
-### Highlights
-
-* Developed a Random Forest prediction model
-* Implemented an Elo Rating system for dynamic team rankings
-* Engineered features using recent form and historical performance
-* Simulated complete tournament outcomes based on model predictions
-* Evaluated model performance using classification metrics
-* Built a reusable prediction pipeline for future fixtures
+Tools:
+Git • Docker • Postman • Firebase
 
 ---
 
-## 📱 SU Learning Companion
+## Featured Projects
 
-A cross-platform mobile application that helps university students organize coursework, assignments, deadlines, and study schedules.
+### 🤖 AI Developer Support Agent
 
-**Technologies:** Flutter, Dart, Firebase, Firestore
+LLM-powered developer assistant combining RAG, MCP, PostgreSQL, and React.
 
-### Highlights
+**Tech:** Python • OpenAI • LangChain • ChromaDB • PostgreSQL • React
 
-* Responsive mobile application
-* Firebase Authentication
-* Cloud Firestore integration
-* Assignment and deadline management
-* Team-based software development
+➡️ Repository
 
 ---
 
-## 🛒 Supermarket Management System
+### ⚽ Football Match Prediction System
 
-A relational database management system designed for supermarket operations and inventory management.
+Machine learning system predicting football matches using Elo ratings, Random Forest, feature engineering, and tournament simulation.
 
-**Technologies:** MySQL, SQL
+**Tech:** Python • Scikit-learn • Pandas
 
-### Highlights
-
-* Normalized database design (1NF–3NF)
-* Complex SQL queries
-* Stored procedures
-* Database triggers
-* Inventory management system
+➡️ Repository
 
 ---
 
-## ⏱ FPGA UART Countdown Timer
+### 📱 SU Learning Companion
 
-A UART-controlled countdown timer implemented on the Tang Nano 9K FPGA platform.
+Flutter mobile application for managing university coursework and schedules.
 
-**Technologies:** Verilog HDL, Gowin IDE
-
-### Highlights
-
-* UART serial communication
-* Seven-segment display controller
-* Hardware implementation
-* Functional verification and testing
+➡️ Repository
 
 ---
 
-## 🧠 Subset Sum Algorithm Analysis
+## What I'm Learning
 
-Experimental analysis of the NP-Complete Subset Sum problem comparing Brute Force and Greedy Heuristic approaches.
-
-**Technologies:** Python, NumPy, Matplotlib
-
-### Highlights
-
-* Complexity analysis
-* Runtime benchmarking
-* Confidence interval analysis
-* Performance visualization
-* Greedy vs. Brute Force comparison
+- GraphRAG
+- LangGraph
+- AI Agents
+- Knowledge Graphs
 
 ---
 
-## 📈 Economic Impact on R&D Investment
+## Contact
 
-A machine learning project analyzing the relationship between economic indicators and national R&D investment across multiple countries.
+Email
 
-**Technologies:** Python, Pandas, Scikit-learn
+LinkedIn
 
-### Highlights
-
-* Data preprocessing
-* Exploratory Data Analysis (EDA)
-* Principal Component Analysis (PCA)
-* K-Means Clustering
-* Random Forest
-* Regression Analysis
-
----
-
-# 🌱 Currently Learning
-
-* GraphRAG
-* LangGraph
-* Knowledge Graphs
-* Multi-Agent AI Systems
-* AI Agent Architectures
-
----
-
-# 📫 Connect With Me
-
-📍 Istanbul, Türkiye
-
-📧 **[mominalam454@gmail.com](mailto:mominalam454@gmail.com)**
-
-💻 **GitHub:** https://github.com/AbdulMominAlam
-
----
-
-⭐ *Always learning, building, and exploring new technologies in Artificial Intelligence and Software Engineering.*
+GitHub
