@@ -4,24 +4,17 @@
 Computer Science Student @ Sabancı University • AI & Full-Stack Developer
 </h3>
 
-<p align="center">
-Interested in AI, machine learning, and Full-Stack development, with a focus on building practical software that solves real-world problems.
-</p>
-
 ---
-
-# 👨‍💻 About Me
 
 🎓 Computer Science Student at **Sabancı University**
 
 📊 Minor in **Business Analytics**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Backend Engineering, and Software Development.
+🤖 Passionate about Artificial Intelligence, Machine Learning, Backend Engineering, Data Science and Software Development.
 
 🚀 Currently Exploring
 - GraphRAG
 - LangGraph
-- Knowledge Graphs
 - Multi-Agent AI Systems
 
 📫 **Email:** **mominalam454@gmail.com**
@@ -109,30 +102,6 @@ Interested in AI, machine learning, and Full-Stack development, with a focus on 
 | ⏱ **FPGA UART Countdown Timer** | UART-controlled countdown timer implemented on the Tang Nano 9K FPGA platform. | Verilog HDL |
 | 🧠 **Subset Sum Algorithm Analysis** | Experimental comparison of Brute Force and Greedy algorithms for the NP-Complete Subset Sum problem. | Python |
 | 📈 **Economic Impact on R&D Investment** | Machine learning analysis exploring relationships between economic indicators and national R&D expenditure. | Python • Scikit-learn |
-
----
-
-# 🎯 Areas of Interest
-
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-- Backend Engineering
-- Machine Learning
-- Data Science
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdulMominAlam&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMominAlam&layout=compact&theme=github_dark"/>
-
-</p>
 
 ---
 
