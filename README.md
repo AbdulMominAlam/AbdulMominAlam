@@ -80,6 +80,10 @@ Computer Science Student @ Sabancı University • AI, ML & Full-Stack Developer
 <p>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
@@ -95,7 +99,7 @@ Computer Science Student @ Sabancı University • AI, ML & Full-Stack Developer
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| 🤖 **AI Developer Support Agent** | Intelligent developer assistant that combines RAG, MCP, PostgreSQL, and a React frontend to answer technical questions using documentation and structured project data. | Python • OpenAI • LangChain • ChromaDB • PostgreSQL • React |
+| 🤖 **AI Developer Support Agent** | AI-powered developer support platform using RAG, dynamic SQL generation, MCP tools, asynchronous ticket processing with RabbitMQ, real-time WebSocket responses, and Dockerized microservices. | Python • OpenAI • FastAPI • LangChain • RAG • MCP • ChromaDB • PostgreSQL • RabbitMQ • WebSockets • React • Docker |
 | ⚽ **Football Match Outcome Prediction System** | End-to-end machine learning system that predicts football match outcomes using Random Forest, Elo Ratings, feature engineering, historical match statistics, and tournament simulation. | Python • Scikit-learn • Pandas |
 | 📱 **SU Learning Companion** | Cross-platform mobile application helping university students manage coursework, assignments, deadlines, and study schedules. | Flutter • Firebase |
 | 🛒 **Supermarket Management System** | Relational database management system featuring normalization, stored procedures, triggers, and inventory management. | MySQL |
