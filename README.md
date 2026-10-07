@@ -28,6 +28,7 @@ Computer Science Student @ Sabancı University • AI, ML & Full-Stack Developer
 <p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -44,6 +45,7 @@ Computer Science Student @ Sabancı University • AI, ML & Full-Stack Developer
 
 <p>
 
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-0A9396?style=for-the-badge"/>
@@ -63,6 +65,7 @@ Computer Science Student @ Sabancı University • AI, ML & Full-Stack Developer
 <p>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
@@ -98,7 +101,8 @@ Computer Science Student @ Sabancı University • AI, ML & Full-Stack Developer
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| 🤖 **AI Developer Support Agent** | AI-powered developer support platform using RAG, dynamic SQL generation, MCP tools, asynchronous ticket processing with RabbitMQ, real-time WebSocket responses, and Dockerized microservices. | Python • OpenAI • FastAPI • LangChain • RAG • MCP • ChromaDB • PostgreSQL • RabbitMQ • WebSockets • React • Docker |
+| 🗂️ **[AI Personal Command Center](https://github.com/AbdulMominAlam/ai-command-center)** | Personal dashboard that syncs Gmail (multiple accounts), Google Calendar, Google Tasks and SUCourse into Postgres. Claude turns emails into tasks via validated structured output, and a SQL-first chat agent answers questions with a confirm-before-write flow. Includes privacy filters and PII redaction, cost caps, prompt caching, and a hand-labeled eval set. [Demo video](https://youtu.be/gJMrLY4TQ4Y) | Python • FastAPI • Claude API • PostgreSQL • SQLAlchemy • React • TypeScript • Vite • Tailwind |
+| 🤖 **[AI Developer Support Agent](https://github.com/AbdulMominAlam/ai-developer-support-agent)** | AI-powered developer support platform using RAG, dynamic SQL generation, MCP tools, asynchronous ticket processing with RabbitMQ, real-time WebSocket responses, and Dockerized microservices. | Python • OpenAI • FastAPI • LangChain • RAG • MCP • ChromaDB • PostgreSQL • RabbitMQ • WebSockets • React • Docker |
 | ⚽ **Football Match Outcome Prediction System** | End-to-end machine learning system that predicts football match outcomes using Random Forest, Elo Ratings, feature engineering, historical match statistics, and tournament simulation. | Python • Scikit-learn • Pandas |
 | 📱 **SU Learning Companion** | Cross-platform mobile application helping university students manage coursework, assignments, deadlines, and study schedules. | Flutter • Firebase |
 | 🛒 **Supermarket Management System** | Relational database management system featuring normalization, stored procedures, triggers, and inventory management. | MySQL |
