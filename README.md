@@ -12,11 +12,6 @@ Computer Science Student @ Sabancı University • AI, ML & Full-Stack Developer
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
 
-🚀 Currently Exploring
-- GraphRAG
-- LangGraph
-- Multi-Agent AI Systems
-
 📫 **Email:** **mominalam454@gmail.com**
 
 ---
