@@ -4,6 +4,12 @@
 Computer Science Student @ Sabancı University • AI, ML & Full-Stack Developer
 </h3>
 
+<p align="center">
+<a href="https://abdulmominalam.github.io">
+<img src="https://img.shields.io/badge/Portfolio-2443C4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 🎓 Computer Science Student at **Sabancı University**
@@ -11,6 +17,8 @@ Computer Science Student @ Sabancı University • AI, ML & Full-Stack Developer
 📊 Minor in **Business Analytics**
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
+
+🌐 **Portfolio:** **[abdulmominalam.github.io](https://abdulmominalam.github.io)**
 
 📫 **Email:** **mominalam454@gmail.com**
 
@@ -110,6 +118,10 @@ Computer Science Student @ Sabancı University • AI, ML & Full-Stack Developer
 # 🌐 Connect With Me
 
 <p>
+
+<a href="https://abdulmominalam.github.io">
+<img src="https://img.shields.io/badge/Portfolio-2443C4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 <a href="mailto:mominalam454@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
